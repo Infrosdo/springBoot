@@ -1,0 +1,7 @@
+springboot事务：
+1、打开@EnableTransactionManagement
+2、在service方法注解@Transactional
+使用jsp：
+1、添加依赖
+2、工程指定web文件路径（pom）
+3、配置逻辑视图
